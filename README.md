@@ -20,6 +20,3 @@ This is a cricket scoreboard which can be used to store previous matches score. 
 - Adding tournament mode (with various teams)
 - Choose Man of the Match on the stats
 - Make GUI version of this application
-
-# whoami
-I am anant, a 13 year old **self taught programmer**. So that's why to complete this project. I am always banned at stack overflow, got a negative ranking of 2, 7 like that only. So no one is there to help me lol. I am trying to finish my highest priority work. Can't think of the logic (cause we are new in this things)
