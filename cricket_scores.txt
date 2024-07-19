@@ -1,0 +1,18 @@
+
+--- New Game ---
+Teams: nsngr vs rtna
+Number of players: 2
+Number of overs: 2
+Toss won by nsngr, chose to bat
+Player lists:
+nsngr: yrnwn, ryn
+rtna: rny, ran
+
+--- New Game ---
+Teams: hgx vs xdcfv
+Number of players: 3
+Number of overs: 2
+Toss won by hgx, chose to bat
+Player lists:
+hgx: br, tqjr, tnq
+xdcfv: nrgwy, yrag, yhjrn

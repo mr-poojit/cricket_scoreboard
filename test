@@ -1,0 +1,66 @@
+
+class Player:
+    def inputData(self):
+        self.pid
+        self.name
+        self.score
+        self.wicket
+        self.teamID
+        self.matchID
+
+
+class Team:
+    def inputdata(self):
+        self.teamID
+        self.teamName
+
+
+class Match:
+    def inputdata(self):
+        self.matchID
+        self.matchName
+        self.teams
+
+
+class Tournament:
+    def inputdata(self):
+        self.tournamentID
+        self.tournamentName
+
+
+seriesName = input("Enter series name: ")
+numOfPlayers = int(input("How many players are there: "))
+
+series = Tournament()
+series.TournamentID = "1"
+series.TournamentName = seriesName
+
+numOfTeams = 2
+i = 0
+matchObj = Match()
+matchObj.matchID = "123"
+matchObj.teams = []
+while i < numOfTeams:
+    t = Team()
+    t.teamID = i+1
+    t.teamName = input(f"Enter team {i+1}: ")
+    matchObj.teams.append(t)
+    i += 1
+
+i = 0
+
+while i < numOfTeams:
+    print(f"\nSetting up team {matchObj.teams[i].teamName}")
+    j = 0
+    k = 0
+    while j < numOfPlayers:
+        p = Player()
+        p.pid = k+1
+        p.name = input(f"\nEnter player name {p.pid}: ")
+        p.teamID = matchObj.teams[i].teamID
+        p.matchID = matchObj.matchID
+        j += 1
+        k += 1
+    i += 1
+
+print(matchObj.teams)

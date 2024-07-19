@@ -1,0 +1,45 @@
+Team Name: cambridge blasters
+1: vineet
+2: sanjay
+3: raghu
+Team Name: ece rockers
+1: poojit
+2: pavan
+3: shreyas
+
+Match overs: 4
+cambridge blasters won the toss and chose to bat
+
+[1mTotal Score of cambridge blasters[0m
+[1mRuns: 66[0m
+[1mWickets: 1[0m
+[1mExtras: 0[0m
+[1mOvers: 4.0[0m
+[1mRun Rate: 16.50
+
+Over-wise Scores for cambridge blasters:
+Over | Score
+------------
+   1 | 16
+   2 | 15
+   3 | 18
+   4 | 17
+
+
+[1mTotal Score of ece rockers[0m
+[1mRuns: 47[0m
+[1mWickets: 1[0m
+[1mExtras: 0[0m
+[1mOvers: 4.0[0m
+[1mRun Rate: 11.75
+
+Over-wise Scores for ece rockers:
+Over | Score
+------------
+   1 | 10
+   2 |  5
+   3 | 18
+   4 | 14
+
+
+cambridge blasters won by 19 runs
